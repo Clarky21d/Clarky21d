@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🎓 Master 1 student in **Artificial Intelligence**  <br>- 💻 Full-Stack Developer (mobile & web applications)  <br>- 🤖 Working on **AI & Machine Learning projects** using Python  <br>- 📱 Building apps with **React Native, Expo Router**  <br>- 🛡️ Cybersecurity enthusiast (offensive basics, TryHackMe)  <br>- 🚀 Passionate about building secure, intelligent systems<br><br>📫 Feel free to explore my repositories and connect with me!
+<br>- 🎓 Master 1 student in **Artificial Intelligence**  <br>- 💻 Front-End Developer (mobile & web applications)  <br>- 🤖 Working on **AI & Machine Learning projects** using Python  <br>- 📱 Building apps with **React Native, Expo Router**  <br>- 🛡️ Cybersecurity enthusiast (offensive basics, TryHackMe)  <br>- 🚀 Passionate about building secure, intelligent systems<br><br>📫 Feel free to explore my repositories and connect with me!
 
 
 ## 🌐 Socials:
