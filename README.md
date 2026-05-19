@@ -63,12 +63,12 @@ Master’s student in Artificial Intelligence focused on building intelligent sy
 ## 🎧 Currently Playing
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b2d2jyk2qnoeuqkcrqsrcv5fd4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" 
-    />
-  </a>
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31b2d2jyk2qnoeuqkcrqsrcv5fd4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
 </p>
+
+---
 
 ---
 
