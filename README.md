@@ -21,7 +21,7 @@ AI Engineer • Mobile Developer • Cybersecurity Enthusiast
 ---
 
 <p align="center">
-Master’s student in Artificial Intelligence focused on building intelligent systems, mobile applications, and cybersecurity projects.
+Master’s student in Artificial Intelligence focused on building intelligent systems, mobile applications, and cybersecurity.
 </p>
 
 ---
@@ -57,23 +57,13 @@ Master’s student in Artificial Intelligence focused on building intelligent sy
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clarky21d&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Clarky21d&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarky21d&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clarky21d&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarky21d&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Clarky21d&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://streak-stats.demolab.com?user=Clarky21d&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
@@ -81,10 +71,25 @@ Master’s student in Artificial Intelligence focused on building intelligent sy
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/douache-ahmed-yacine/">LinkedIn</a> •
-  <a href="https://www.instagram.com/c14rk_21/?hl=fr">Instagram</a> •
-  <a href="mailto:ahmedyacine.douache@gmail.com">Email</a> •
-  <a href="https://open.spotify.com/user/31b2d2jyk2qnoeuqkcrqsrcv5fd4">Spotify</a>
+  <a href="https://www.linkedin.com/in/douache-ahmed-yacine/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  
+  <a href="https://www.instagram.com/c14rk_21/?hl=fr">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  
+  <a href="https://github.com/Clarky21d">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  
+  <a href="https://open.spotify.com/user/31b2d2jyk2qnoeuqkcrqsrcv5fd4">
+    <img src="https://skillicons.dev/icons?i=spotify" height="45" />
+  </a>
+  
+  <a href="mailto:ahmedyacine.douache@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
 </p>
 
 ---
