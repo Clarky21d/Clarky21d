@@ -52,21 +52,7 @@ Master’s student in Artificial Intelligence focused on building intelligent sy
 - 🧠 Medical Image Segmentation with MedSAM  
 - 🔐 Cybersecurity Practice Labs & CTFs  
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Clarky21d&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarky21d&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Clarky21d&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -94,6 +80,4 @@ Master’s student in Artificial Intelligence focused on building intelligent sy
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Clarky21d&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
