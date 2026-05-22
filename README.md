@@ -47,7 +47,6 @@ Master’s student in Artificial Intelligence focused on building intelligent sy
 
 # 📌 Projects
 
-- 🚦 AI Traffic Violation Detection  
 - 🚗 React Native Car Rental App  
 - 🧠 Medical Image Segmentation with MedSAM  
 - 🔐 Cybersecurity Practice Labs & CTFs  
