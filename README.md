@@ -133,10 +133,24 @@ raid_ready   = true
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Clarky21d&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarky21d&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9"/>
+```
+┌───────────────────────────────────────────────────┐
+│                  PLAYER STATISTICS                 │
+├───────────────────────────────────────────────────┤
+```
+
+![Repos](https://img.shields.io/github/repos/Clarky21d?style=for-the-badge&label=REPOS&color=00F0FF&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/Clarky21d?affiliations=OWNER&style=for-the-badge&label=STARS&color=FF00E5&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/Clarky21d?style=for-the-badge&label=FOLLOWERS&color=00F0FF&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Clarky21d&style=for-the-badge&label=VIEWS&color=FF00E5)
+
+```
+└───────────────────────────────────────────────────┘
+```
 
 </div>
+
+> 🔧 **Note:** the old stats-card widget (github-readme-stats.vercel.app) is a free public instance that goes down or rate-limits often — that's why it wasn't loading. The badges above use shields.io + komarev, which are far more reliable. If you want the fuller stats card back, the fix is to deploy your own instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and point the URL at that instead of the shared public one.
 
 ---
 
