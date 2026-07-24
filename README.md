@@ -6,13 +6,7 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=750&lines=Ahmed+Yacine+Douache;AI+Engineer+%2F%2F+Full+Stack+Dev;Mobile+%2F%2F+React+Native;Cybersecurity+Enthusiast;sudo+build+--intelligent-software" alt="Typing SVG" />
-
-<br/>
-
-![](https://img.shields.io/badge/status-online-39FF14?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/github/followers/Clarky21d?style=flat-square&color=39FF14&labelColor=0D1117&logo=github&logoColor=white&label=followers)
-![](https://komarev.com/ghpvc/?username=Clarky21d&style=flat-square&color=39FF14&label=visitors)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=2E8B57&center=true&vCenter=true&width=750&lines=Ahmed+Yacine+Douache;AI+Engineer+%2F%2F+Full+Stack+Dev;Mobile+%2F%2F+React+Native;Cybersecurity+Enthusiast;sudo+build+--intelligent-software" alt="Typing SVG" />
 
 </div>
 
@@ -101,19 +95,9 @@ status:     open_to_work: true
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Clarky21d&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarky21d&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Clarky21d&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clarky21d&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2E8B57&text_color=c9d1d9"/>
 
-<img src="https://streak-stats.demolab.com?user=Clarky21d&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Clarky21d&theme=onedark&no-frame=true&column=4&margin-w=10"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Clarky21d&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff"/>
 </div>
 
 ---
@@ -133,11 +117,11 @@ status:     open_to_work: true
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/douache-ahmed-yacine/)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://www.instagram.com/c14rk_21/?hl=fr)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Clarky21d)
-[![Spotify](https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=39FF14)](https://open.spotify.com/user/31b2d2jyk2qnoeuqkcrqsrcv5fd4)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:ahmedyacine.douache@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2E8B57)](https://www.linkedin.com/in/douache-ahmed-yacine/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=2E8B57)](https://www.instagram.com/c14rk_21/?hl=fr)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=2E8B57)](https://github.com/Clarky21d)
+[![Spotify](https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=2E8B57)](https://open.spotify.com/user/31b2d2jyk2qnoeuqkcrqsrcv5fd4)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=2E8B57)](mailto:ahmedyacine.douache@gmail.com)
 
 </div>
 
