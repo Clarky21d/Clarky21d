@@ -1,59 +1,64 @@
 <div align="center">
 
-```
-░▒▓█ NEURAL INTERFACE — BOOT SEQUENCE INITIATED █▓▒░
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3200&pause=900&color=FF6B00&center=true&vCenter=true&width=760&lines=AHMED+YACINE+DOUACHE;NEURAL+NET%3A+ONLINE;MODEL%3A+AI_ENGINEER-v2;FINE-TUNED+ON%3A+FULLSTACK+%2B+SECURITY;INFERENCE+READY..." alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.com/api?type=soft&color=0:1F2937,100:6366F1&height=200&section=header&text=Ahmed%20Yacine%20Douache&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20·%20Full%20Stack%20·%20Mobile%20·%20Cybersecurity&descAlignY=62&descAlign=50&animation=fadeIn" />
 
 <br/>
 
-`[ SIGNAL: STRONG ]` &nbsp; `[ CORE TEMP: NOMINAL ]` &nbsp; `[ UPTIME: STUDENT_LIFE ]`
+<img src="https://img.shields.io/badge/Master's%20Student-Artificial%20Intelligence-6366F1?style=flat-square&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Open%20To-Work-6366F1?style=flat-square&labelColor=1F2937" />
 
 </div>
 
 <br/>
 
-<div align="center">
-<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
-</div>
+## About
 
-## 🧬 SYSTEM.LOG
+I'm a Master's student in **Artificial Intelligence**, working across AI/ML, full-stack development, mobile engineering, and cybersecurity. I like turning ideas into real, working software — from training models to shipping apps end to end.
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="25%" align="center">
 
-```json
-{
-  "unit_id": "Ahmed Yacine Douache",
-  "current_build": "Master's Student — Artificial Intelligence",
-  "core_modules": [
-    "AI / Machine Learning Engineering",
-    "Full Stack Development",
-    "Mobile Development (React Native)",
-    "Cybersecurity & Offensive Security"
-  ],
-  "training_data": "real-world problems",
-  "objective_function": "minimize(friction) + maximize(impact)",
-  "deployment_status": "open_to_work"
-}
-```
+**🎓**
+<br/>
+Master's Student
+<br/>
+<sub>Artificial Intelligence</sub>
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="25%" align="center">
 
-<img width="200" src="https://user-images.githubusercontent.com/74038190/238200534-fe6e4b9c-3f6f-40db-a850-b7fbf5f26df9.gif"/>
+**🤖**
+<br/>
+AI & ML
+<br/>
+<sub>Applications & Research</sub>
+
+</td>
+<td width="25%" align="center">
+
+**📱**
+<br/>
+Mobile & Full Stack
+<br/>
+<sub>React Native, Web</sub>
+
+</td>
+<td width="25%" align="center">
+
+**🔐**
+<br/>
+Cybersecurity
+<br/>
+<sub>Offensive Security</sub>
 
 </td>
 </tr>
 </table>
 
-Building intelligent software that fuses AI, full-stack engineering, mobile, and security into systems that actually solve problems — not just demos.
-
 ---
 
-## 🔊 AUDIO STREAM
+## Now Playing
 
 <div align="center">
 
@@ -63,139 +68,154 @@ Building intelligent software that fuses AI, full-stack engineering, mobile, and
 
 ---
 
-## ⚙️ HARDWARE / MODULE STACK
-
-<table width="100%">
-<tr>
-<td width="22%"><b>◆ CORE LANGUAGES</b></td>
-<td width="78%"><img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,bash,html,css&theme=dark" /></td>
-</tr>
-<tr>
-<td><b>◆ INTERFACE LAYER</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap&theme=dark" /></td>
-</tr>
-<tr>
-<td><b>◆ DATA / SERVER LAYER</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase&theme=dark" /></td>
-</tr>
-<tr>
-<td><b>◆ NEURAL ENGINE</b></td>
-<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" /></td>
-</tr>
-<tr>
-<td><b>◆ TOOLCHAIN</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,arch,vscode,postman&theme=dark" /></td>
-</tr>
-</table>
-
----
-
-## 📡 DEPLOYED SYSTEMS
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**◈ RentGo**
-`[ STATUS: DEPLOYED ]`
-Smart Car Rental Platform
-<sub>React Native • Expo • TypeScript • Node.js</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**◈ Medical Image Segmentation**
-`[ STATUS: DEPLOYED ]`
-AI-based retinal image segmentation with MedSAM
-<sub>Python • PyTorch • Computer Vision</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**◈ Cybersecurity Labs**
-`[ STATUS: ACTIVE ]`
-CTFs, penetration testing & security research
-<sub>Linux • Nmap • Scapy • Wireshark</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**◈ AI Experiments**
-`[ STATUS: ACTIVE ]`
-Machine learning & deep learning R&D
-<sub>TensorFlow • PyTorch</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 TELEMETRY
+## Tech Stack
 
 <div align="center">
 
-```
-> reading sensors...
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,bash,html,css" />
 
-LANGUAGE DISTRIBUTION
-Python        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░  78%
-JS / TS       ▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░  55%
-C / C++       ▰▰▰▰▰▰░░░░░░░░░░░░░░  32%
-Shell         ▰▰▰▰░░░░░░░░░░░░░░░░  20%
-```
+<br/><br/>
 
-![Repos](https://img.shields.io/github/repos/Clarky21d?style=for-the-badge&label=REPOS&color=FF6B00&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/Clarky21d?affiliations=OWNER&style=for-the-badge&label=STARS&color=FF3B3B&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/Clarky21d?style=for-the-badge&label=FOLLOWERS&color=FF6B00&labelColor=0D1117)
-![Profile Views](https://komarev.com/ghpvc/?username=Clarky21d&style=for-the-badge&label=VIEWS&color=FF3B3B)
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap" />
 
-```
-> telemetry OK ✔
-```
+<br/><br/>
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase" />
+
+<br/><br/>
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+<br/><br/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,arch,vscode,postman" />
 
 </div>
 
-<sub>🔧 No dependency on the flaky `github-readme-stats.vercel.app` widget — bars are decorative, badges run on shields.io + komarev.</sub>
+---
+
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 RentGo
+Smart car rental platform.
+<br/>
+`React Native` `Expo` `TypeScript` `Node.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Medical Image Segmentation
+AI-based retinal image segmentation using MedSAM.
+<br/>
+`Python` `PyTorch` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Cybersecurity Labs
+CTFs, penetration testing, and security research.
+<br/>
+`Linux` `Nmap` `Scapy` `Wireshark`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Experiments
+Machine learning and deep learning projects.
+<br/>
+`TensorFlow` `PyTorch`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛰️ TRAINING QUEUE
+## Current Focus
 
-```diff
-+ [FINE-TUNING]  Large Language Models, Advanced ML, MLOps, Cloud Computing
-+ [COMPILING]    AI Apps, Full Stack Projects, Mobile Apps, Medical AI
-+ [SCANNING]     Computer Vision, Cybersecurity, Open Source
-+ [ACCEPTING]    AI Engineer roles · SWE roles · Research collabs
-```
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
+**Learning**
+- Large Language Models
+- Advanced Machine Learning
+- MLOps
+- Cloud Computing
+
+</td>
+<td width="25%" valign="top">
+
+**Building**
+- AI Applications
+- Full Stack Projects
+- Mobile Apps
+- Medical AI Solutions
+
+</td>
+<td width="25%" valign="top">
+
+**Exploring**
+- Computer Vision
+- Cybersecurity
+- Open Source
+
+</td>
+<td width="25%" valign="top">
+
+**Open To**
+- AI Engineer Roles
+- Software Engineering
+- Research Collaboration
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📶 ESTABLISH UPLINK
+## Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6B00)](https://www.linkedin.com/in/douache-ahmed-yacine/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=FF3B3B)](https://www.instagram.com/c14rk_21/?hl=fr)
-[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FF6B00)](https://github.com/Clarky21d)
-[![Spotify](https://img.shields.io/badge/SPOTIFY-0D1117?style=for-the-badge&logo=spotify&logoColor=FF3B3B)](https://open.spotify.com/user/31b2d2jyk2qnoeuqkcrqsrcv5fd4)
-[![Gmail](https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B00)](mailto:ahmedyacine.douache@gmail.com)
+<a href="https://www.linkedin.com/in/douache-ahmed-yacine/">
+  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/c14rk_21/?hl=fr">
+  <img src="https://img.shields.io/badge/Instagram-6366F1?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://github.com/Clarky21d">
+  <img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://open.spotify.com/user/31b2d2jyk2qnoeuqkcrqsrcv5fd4">
+  <img src="https://img.shields.io/badge/Spotify-6366F1?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+<a href="mailto:ahmedyacine.douache@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 <br/>
 
 <div align="center">
-
-```
-> LOG: "Building intelligent software that solves real-world problems."
-> CONNECTION STABLE. STANDING BY.
-```
-
+<i>"Building intelligent software that solves real-world problems."</i>
 </div>
 
-<div align="center">
-<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
-</div>
+<img width="100%" src="https://capsule-render.com/api?type=soft&color=0:1F2937,100:6366F1&height=100&section=footer" />
