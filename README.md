@@ -1,56 +1,60 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=soft&color=0:1F2937,100:6366F1&height=200&section=header&text=Ahmed%20Yacine%20Douache&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20·%20Full%20Stack%20·%20Mobile%20·%20Cybersecurity&descAlignY=62&descAlign=50&animation=fadeIn" />
+```
+██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗       ██╗
+██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗     ███║
+██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝     ╚██║
+██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗      ██║
+██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║      ██║
+╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝      ╚═╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=20&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=780&lines=LOADING+PLAYER...;AHMED+YACINE+DOUACHE;CLASS%3A+AI+ENGINEER;CLASS%3A+FULL+STACK+DEV;CLASS%3A+CYBER+OPERATOR;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Master's%20Student-Artificial%20Intelligence-6366F1?style=flat-square&labelColor=1F2937" />
-<img src="https://img.shields.io/badge/Open%20To-Work-6366F1?style=flat-square&labelColor=1F2937" />
+### `[ INSERT COIN ]` `[ P1 READY ]` `[ ACHIEVEMENTS: LOCKED... UNLOCKING ]`
 
 </div>
 
-<br/>
+---
 
-## About
-
-I'm a Master's student in **Artificial Intelligence**, working across AI/ML, full-stack development, mobile engineering, and cybersecurity. I like turning ideas into real, working software — from training models to shipping apps end to end.
+# 🕹️ PLAYER CARD
 
 <table width="100%">
 <tr>
-<td width="25%" align="center">
+<td width="35%" valign="top" align="center">
 
-**🎓**
-<br/>
-Master's Student
-<br/>
-<sub>Artificial Intelligence</sub>
+<img width="210" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
-</td>
-<td width="25%" align="center">
-
-**🤖**
+**`AHMED_YACINE.exe`**
 <br/>
-AI & ML
+`Rank: Master's Student`
 <br/>
-<sub>Applications & Research</sub>
+`Guild: Artificial Intelligence`
 
 </td>
-<td width="25%" align="center">
+<td width="65%" valign="top">
 
-**📱**
-<br/>
-Mobile & Full Stack
-<br/>
-<sub>React Native, Web</sub>
+```ini
+[STATUS]
+class       = AI Engineer / Full-Stack Dev / Cyber Operator
+level       = ∞ (still grinding)
+current_hp  = ████████████████████ 100%
+current_mp  = ███████████████████░ 95%
+xp_to_next  = "one more model, one more merge"
 
-</td>
-<td width="25%" align="center">
+[PERKS]
++ Machine Learning Mastery
++ Full Stack Deployment Speed Boost
++ Mobile Dev (React Native) Dual-Wield
++ Cybersecurity Stealth Mode
++ Medical AI Vision Scope
 
-**🔐**
-<br/>
-Cybersecurity
-<br/>
-<sub>Offensive Security</sub>
+[GUILD STATUS]
+open_to_work = true
+raid_ready   = true
+```
 
 </td>
 </tr>
@@ -58,7 +62,7 @@ Cybersecurity
 
 ---
 
-## Now Playing
+# 🎵 BACKGROUND MUSIC
 
 <div align="center">
 
@@ -68,154 +72,93 @@ Cybersecurity
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,bash,html,css" />
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap" />
-
-<br/><br/>
-
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase" />
-
-<br/><br/>
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-<br/><br/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,arch,vscode,postman" />
-
-</div>
-
----
-
-## Featured Projects
+# 🎒 INVENTORY / LOADOUT
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🚗 RentGo
-Smart car rental platform.
-<br/>
-`React Native` `Expo` `TypeScript` `Node.js`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Medical Image Segmentation
-AI-based retinal image segmentation using MedSAM.
-<br/>
-`Python` `PyTorch` `Computer Vision`
-
-</td>
+<td width="20%"><b>⚔️ Weapons</b><br/><sub>(Languages)</sub></td>
+<td width="80%"><img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,bash,html,css&theme=dark" /></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🔐 Cybersecurity Labs
-CTFs, penetration testing, and security research.
-<br/>
-`Linux` `Nmap` `Scapy` `Wireshark`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Experiments
-Machine learning and deep learning projects.
-<br/>
-`TensorFlow` `PyTorch`
-
-</td>
+<td><b>🛡️ Armor</b><br/><sub>(Frontend)</sub></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap&theme=dark" /></td>
+</tr>
+<tr>
+<td><b>🏰 Base</b><br/><sub>(Backend/DB)</sub></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase&theme=dark" /></td>
+</tr>
+<tr>
+<td><b>🔮 Spellbook</b><br/><sub>(AI/ML)</sub></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" /></td>
+</tr>
+<tr>
+<td><b>🧰 Utility</b><br/><sub>(Tools)</sub></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,arch,vscode,postman&theme=dark" /></td>
 </tr>
 </table>
 
 ---
 
-## Current Focus
+# 🏆 QUEST LOG — COMPLETED
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top">
+```
+┌─ QUEST 01 ──────────────────────────────────────────┐
+│ 🚗 RentGo                              [COMPLETE]    │
+│ Smart Car Rental Platform                            │
+│ Loot: React Native · Expo · TypeScript · Node.js     │
+└───────────────────────────────────────────────────────┘
 
-**Learning**
-- Large Language Models
-- Advanced Machine Learning
-- MLOps
-- Cloud Computing
+┌─ QUEST 02 ──────────────────────────────────────────┐
+│ 🧠 Medical Image Segmentation           [COMPLETE]    │
+│ AI-based retinal image segmentation (MedSAM)         │
+│ Loot: Python · PyTorch · Computer Vision              │
+└───────────────────────────────────────────────────────┘
 
-</td>
-<td width="25%" valign="top">
+┌─ QUEST 03 ──────────────────────────────────────────┐
+│ 🔐 Cybersecurity Labs                   [ONGOING]     │
+│ CTFs, penetration testing & security research        │
+│ Loot: Linux · Nmap · Scapy · Wireshark                │
+└───────────────────────────────────────────────────────┘
 
-**Building**
-- AI Applications
-- Full Stack Projects
-- Mobile Apps
-- Medical AI Solutions
+┌─ QUEST 04 ──────────────────────────────────────────┐
+│ 🤖 AI Experiments                       [ONGOING]     │
+│ Machine Learning & Deep Learning R&D                 │
+│ Loot: TensorFlow · PyTorch                            │
+└───────────────────────────────────────────────────────┘
+```
 
-</td>
-<td width="25%" valign="top">
 
-**Exploring**
-- Computer Vision
-- Cybersecurity
-- Open Source
 
-</td>
-<td width="25%" valign="top">
+# 🧭 ACTIVE QUESTS
 
-**Open To**
-- AI Engineer Roles
-- Software Engineering
-- Research Collaboration
 
-</td>
-</tr>
-</table>
++ [GRINDING]   Large Language Models, Advanced ML, MLOps, Cloud Computing
++ [CRAFTING]   AI Apps, Full Stack Projects, Mobile Apps, Medical AI
++ [SCOUTING]   Computer Vision, Cybersecurity, Open Source
++ [LFG]        AI Engineer roles · SWE roles · Research co-op parties
+```
 
 ---
 
-## Connect
+# 🎮 ADD PLAYER 2 (CONNECT)
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/douache-ahmed-yacine/">
-  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/c14rk_21/?hl=fr">
-  <img src="https://img.shields.io/badge/Instagram-6366F1?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://github.com/Clarky21d">
-  <img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://open.spotify.com/user/31b2d2jyk2qnoeuqkcrqsrcv5fd4">
-  <img src="https://img.shields.io/badge/Spotify-6366F1?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
-<a href="mailto:ahmedyacine.douache@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/douache-ahmed-yacine/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00E5)](https://www.instagram.com/c14rk_21/?hl=fr)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/Clarky21d)
+[![Spotify](https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=FF00E5)](https://open.spotify.com/user/31b2d2jyk2qnoeuqkcrqsrcv5fd4)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:ahmedyacine.douache@gmail.com)
 
 </div>
-
-<br/>
 
 <div align="center">
-<i>"Building intelligent software that solves real-world problems."</i>
-</div>
 
-<img width="100%" src="https://capsule-render.com/api?type=soft&color=0:1F2937,100:6366F1&height=100&section=footer" />
+```
+> SYSTEM: "Building intelligent software that solves real-world problems."
+> GAME SAVED. SEE YOU NEXT SESSION.
+```
+
+<sub>Press [ESC] to exit profile</sub>
+
+</div>
