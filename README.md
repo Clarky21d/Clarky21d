@@ -131,7 +131,7 @@ raid_ready   = true
 
 # 🧭 ACTIVE QUESTS
 
-
+```
 + [GRINDING]   Large Language Models, Advanced ML, MLOps, Cloud Computing
 + [CRAFTING]   AI Apps, Full Stack Projects, Mobile Apps, Medical AI
 + [SCOUTING]   Computer Vision, Cybersecurity, Open Source
