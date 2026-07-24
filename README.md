@@ -1,68 +1,59 @@
 <div align="center">
 
 ```
-██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗       ██╗
-██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗     ███║
-██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝     ╚██║
-██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗      ██║
-██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║      ██║
-╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝      ╚═╝
+░▒▓█ NEURAL INTERFACE — BOOT SEQUENCE INITIATED █▓▒░
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=16&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=780&lines=LOADING+PLAYER...;AHMED+YACINE+DOUACHE;CLASS%3A+AI+ENGINEER;CLASS%3A+FULL+STACK+DEV;CLASS%3A+CYBER+OPERATOR;PRESS+START+TO+CONTINUE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3200&pause=900&color=FF6B00&center=true&vCenter=true&width=760&lines=AHMED+YACINE+DOUACHE;NEURAL+NET%3A+ONLINE;MODEL%3A+AI_ENGINEER-v2;FINE-TUNED+ON%3A+FULLSTACK+%2B+SECURITY;INFERENCE+READY..." alt="Typing SVG" />
 
 <br/>
 
-`[ INSERT COIN ]` `[ P1 READY ]` `[ ACHIEVEMENTS: LOCKED... UNLOCKING ]`
+`[ SIGNAL: STRONG ]` &nbsp; `[ CORE TEMP: NOMINAL ]` &nbsp; `[ UPTIME: STUDENT_LIFE ]`
 
 </div>
 
----
+<br/>
 
-## 🕹️ PLAYER CARD
+<div align="center">
+<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+</div>
+
+## 🧬 SYSTEM.LOG
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top" align="center">
+<td width="60%" valign="top">
 
-<img width="180" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
-
-**`AHMED_YACINE.exe`**
-<br/>
-`Rank: Master's Student`
-<br/>
-`Guild: Artificial Intelligence`
+```json
+{
+  "unit_id": "Ahmed Yacine Douache",
+  "current_build": "Master's Student — Artificial Intelligence",
+  "core_modules": [
+    "AI / Machine Learning Engineering",
+    "Full Stack Development",
+    "Mobile Development (React Native)",
+    "Cybersecurity & Offensive Security"
+  ],
+  "training_data": "real-world problems",
+  "objective_function": "minimize(friction) + maximize(impact)",
+  "deployment_status": "open_to_work"
+}
+```
 
 </td>
-<td width="65%" valign="top">
+<td width="40%" valign="top" align="center">
 
-```ini
-[STATUS]
-class       = AI Engineer / Full-Stack Dev / Cyber Operator
-level       = ∞ (still grinding)
-current_hp  = ████████████████████ 100%
-current_mp  = ███████████████████░ 95%
-xp_to_next  = "one more model, one more merge"
-
-[PERKS]
-+ Machine Learning Mastery
-+ Full Stack Deployment Speed Boost
-+ Mobile Dev (React Native) Dual-Wield
-+ Cybersecurity Stealth Mode
-+ Medical AI Vision Scope
-
-[GUILD STATUS]
-open_to_work = true
-raid_ready   = true
-```
+<img width="200" src="https://user-images.githubusercontent.com/74038190/238200534-fe6e4b9c-3f6f-40db-a850-b7fbf5f26df9.gif"/>
 
 </td>
 </tr>
 </table>
 
+Building intelligent software that fuses AI, full-stack engineering, mobile, and security into systems that actually solve problems — not just demos.
+
 ---
 
-## 🎵 BACKGROUND MUSIC
+## 🔊 AUDIO STREAM
 
 <div align="center">
 
@@ -72,118 +63,139 @@ raid_ready   = true
 
 ---
 
-## 🎒 INVENTORY / LOADOUT
+## ⚙️ HARDWARE / MODULE STACK
 
 <table width="100%">
 <tr>
-<td width="20%"><b>⚔️ Weapons</b><br/><sub>(Languages)</sub></td>
-<td width="80%"><img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,bash,html,css&theme=dark" /></td>
+<td width="22%"><b>◆ CORE LANGUAGES</b></td>
+<td width="78%"><img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,bash,html,css&theme=dark" /></td>
 </tr>
 <tr>
-<td><b>🛡️ Armor</b><br/><sub>(Frontend)</sub></td>
+<td><b>◆ INTERFACE LAYER</b></td>
 <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,bootstrap&theme=dark" /></td>
 </tr>
 <tr>
-<td><b>🏰 Base</b><br/><sub>(Backend/DB)</sub></td>
+<td><b>◆ DATA / SERVER LAYER</b></td>
 <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase&theme=dark" /></td>
 </tr>
 <tr>
-<td><b>🔮 Spellbook</b><br/><sub>(AI/ML)</sub></td>
+<td><b>◆ NEURAL ENGINE</b></td>
 <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" /></td>
 </tr>
 <tr>
-<td><b>🧰 Utility</b><br/><sub>(Tools)</sub></td>
+<td><b>◆ TOOLCHAIN</b></td>
 <td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,arch,vscode,postman&theme=dark" /></td>
 </tr>
 </table>
 
 ---
 
-## 🏆 QUEST LOG — COMPLETED
+## 📡 DEPLOYED SYSTEMS
 
-```
-┌─ QUEST 01 ──────────────────────────────────────────┐
-│ 🚗 RentGo                              [COMPLETE]    │
-│ Smart Car Rental Platform                            │
-│ Loot: React Native · Expo · TypeScript · Node.js     │
-└───────────────────────────────────────────────────────┘
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-┌─ QUEST 02 ──────────────────────────────────────────┐
-│ 🧠 Medical Image Segmentation           [COMPLETE]    │
-│ AI-based retinal image segmentation (MedSAM)         │
-│ Loot: Python · PyTorch · Computer Vision              │
-└───────────────────────────────────────────────────────┘
+**◈ RentGo**
+`[ STATUS: DEPLOYED ]`
+Smart Car Rental Platform
+<sub>React Native • Expo • TypeScript • Node.js</sub>
 
-┌─ QUEST 03 ──────────────────────────────────────────┐
-│ 🔐 Cybersecurity Labs                   [ONGOING]     │
-│ CTFs, penetration testing & security research        │
-│ Loot: Linux · Nmap · Scapy · Wireshark                │
-└───────────────────────────────────────────────────────┘
+</td>
+<td width="50%" valign="top">
 
-┌─ QUEST 04 ──────────────────────────────────────────┐
-│ 🤖 AI Experiments                       [ONGOING]     │
-│ Machine Learning & Deep Learning R&D                 │
-│ Loot: TensorFlow · PyTorch                            │
-└───────────────────────────────────────────────────────┘
-```
+**◈ Medical Image Segmentation**
+`[ STATUS: DEPLOYED ]`
+AI-based retinal image segmentation with MedSAM
+<sub>Python • PyTorch • Computer Vision</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**◈ Cybersecurity Labs**
+`[ STATUS: ACTIVE ]`
+CTFs, penetration testing & security research
+<sub>Linux • Nmap • Scapy • Wireshark</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**◈ AI Experiments**
+`[ STATUS: ACTIVE ]`
+Machine learning & deep learning R&D
+<sub>TensorFlow • PyTorch</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 STAT SHEET
+## 📊 TELEMETRY
 
 <div align="center">
 
 ```
-┌───────────────────────────────────────────────────┐
-│                  PLAYER STATISTICS                 │
-├───────────────────────────────────────────────────┤
+> reading sensors...
+
+LANGUAGE DISTRIBUTION
+Python        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░  78%
+JS / TS       ▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░  55%
+C / C++       ▰▰▰▰▰▰░░░░░░░░░░░░░░  32%
+Shell         ▰▰▰▰░░░░░░░░░░░░░░░░  20%
 ```
 
-![Repos](https://img.shields.io/github/repos/Clarky21d?style=for-the-badge&label=REPOS&color=00F0FF&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/Clarky21d?affiliations=OWNER&style=for-the-badge&label=STARS&color=FF00E5&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/Clarky21d?style=for-the-badge&label=FOLLOWERS&color=00F0FF&labelColor=0D1117)
-![Profile Views](https://komarev.com/ghpvc/?username=Clarky21d&style=for-the-badge&label=VIEWS&color=FF00E5)
+![Repos](https://img.shields.io/github/repos/Clarky21d?style=for-the-badge&label=REPOS&color=FF6B00&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/Clarky21d?affiliations=OWNER&style=for-the-badge&label=STARS&color=FF3B3B&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/Clarky21d?style=for-the-badge&label=FOLLOWERS&color=FF6B00&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Clarky21d&style=for-the-badge&label=VIEWS&color=FF3B3B)
 
 ```
-└───────────────────────────────────────────────────┘
+> telemetry OK ✔
 ```
 
 </div>
 
-> 🔧 **Note:** the old stats-card widget (github-readme-stats.vercel.app) is a free public instance that goes down or rate-limits often — that's why it wasn't loading. The badges above use shields.io + komarev, which are far more reliable. If you want the fuller stats card back, the fix is to deploy your own instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and point the URL at that instead of the shared public one.
+<sub>🔧 No dependency on the flaky `github-readme-stats.vercel.app` widget — bars are decorative, badges run on shields.io + komarev.</sub>
 
 ---
 
-## 🧭 ACTIVE QUESTS
+## 🛰️ TRAINING QUEUE
 
 ```diff
-+ [GRINDING]   Large Language Models, Advanced ML, MLOps, Cloud Computing
-+ [CRAFTING]   AI Apps, Full Stack Projects, Mobile Apps, Medical AI
-+ [SCOUTING]   Computer Vision, Cybersecurity, Open Source
-+ [LFG]        AI Engineer roles · SWE roles · Research co-op parties
++ [FINE-TUNING]  Large Language Models, Advanced ML, MLOps, Cloud Computing
++ [COMPILING]    AI Apps, Full Stack Projects, Mobile Apps, Medical AI
++ [SCANNING]     Computer Vision, Cybersecurity, Open Source
++ [ACCEPTING]    AI Engineer roles · SWE roles · Research collabs
 ```
 
 ---
 
-## 🎮 ADD PLAYER 2 (CONNECT)
+## 📶 ESTABLISH UPLINK
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/douache-ahmed-yacine/)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00E5)](https://www.instagram.com/c14rk_21/?hl=fr)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/Clarky21d)
-[![Spotify](https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=FF00E5)](https://open.spotify.com/user/31b2d2jyk2qnoeuqkcrqsrcv5fd4)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:ahmedyacine.douache@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6B00)](https://www.linkedin.com/in/douache-ahmed-yacine/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=FF3B3B)](https://www.instagram.com/c14rk_21/?hl=fr)
+[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FF6B00)](https://github.com/Clarky21d)
+[![Spotify](https://img.shields.io/badge/SPOTIFY-0D1117?style=for-the-badge&logo=spotify&logoColor=FF3B3B)](https://open.spotify.com/user/31b2d2jyk2qnoeuqkcrqsrcv5fd4)
+[![Gmail](https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B00)](mailto:ahmedyacine.douache@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+> LOG: "Building intelligent software that solves real-world problems."
+> CONNECTION STABLE. STANDING BY.
+```
 
 </div>
 
 <div align="center">
-
-```
-> SYSTEM: "Building intelligent software that solves real-world problems."
-> GAME SAVED. SEE YOU NEXT SESSION.
-```
-
-<sub>Press [ESC] to exit profile</sub>
-
+<img width="100%" height="2" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 </div>
